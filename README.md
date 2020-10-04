@@ -1,4 +1,4 @@
-# Web-Development
+# Welcome to HacktoberFest 2020!
 
 ### If you are willing toh contribute to opensource then follow the steps:
 * Fork this repository.
@@ -10,3 +10,4 @@
 - Create your pull request.
 - Star my repository.
 - Congratulations!! You have successfully created your pull request.
+- Check your progress here (https://hacktoberfest.digitalocean.com/profile)
